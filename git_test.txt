@@ -7,5 +7,3 @@
 my Git2 modifid
 dev dev
 dev dev dev
-origin
-origin origin
